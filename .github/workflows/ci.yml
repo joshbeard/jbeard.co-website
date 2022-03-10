@@ -24,6 +24,7 @@ jobs:
           name: src
           path: |
             index.html
+            error.html
             assets/
 
   deploy:
